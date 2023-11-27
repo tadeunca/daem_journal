@@ -1,4 +1,4 @@
-#Monitoring Hardware Events on Linux
+//Monitoring Hardware Events on Linux
 
 #define _GNU_SOURCE
  #include <sched.h>
