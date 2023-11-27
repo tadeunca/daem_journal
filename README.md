@@ -1,4 +1,4 @@
-## Examples of the codes used in the manuscript On the impact of hardware-related events on the execution of real-time programs
+## Examples of the codes used in the manuscript: On the impact of hardware-related events on the execution of real-time programs
 ## The scripts are made available to facilitate the replication of the work.
 
 
